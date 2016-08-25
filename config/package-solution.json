@@ -1,0 +1,10 @@
+{
+  "solution": {
+    "name": "oob-spfx-client-side-solution",
+    "id": "e881ed6c-36f3-4571-8f7c-b09df476ee22",
+    "version": "1.0.0.0"
+  },
+  "paths": {
+    "zippedPackage": "oob-spfx.spapp"
+  }
+}
